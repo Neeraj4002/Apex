@@ -42,7 +42,7 @@ An intelligent web application that leverages Google's Gemini AI to generate SEO
 - Google Gemini API key ([Get it here](https://makersuite.google.com/app/apikey))
 
 ### Step 1: Clone the Repository
-git clone https://github.com/yourusername/ai-content-strategist.git
+git clone https://github.com/Neeraj4002/Apex.git
 cd ai-content-strategist
 
 ### Step 2: Create Virtual Environment (Recommended)
